@@ -12,7 +12,7 @@ Please note that by adding a token to the list we aren’t making any claims abo
 
 1. Follow the instructions below to create a PR that would [add your token to the list](#adding-a-token-to-the-list).
 2. Wait for a reviewer to kick off the [automated checks](#automated-checks).
-3. After the automated checks pass and a reviewer approves the PR, then it will automatically be merged.
+3. After the automated checks pass and a reviewer approves the PR, then it will automatically be merged..
 
 **Note:** The standard bridge does *not* support certain ERC-20 configurations:
 
